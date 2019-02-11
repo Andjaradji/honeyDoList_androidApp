@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HoneyDoList</string>
+    <string name="hint_todo">Input Your To Do List</string>
+    <string name="save_btn_caption">SAVE</string>
+</resources>
